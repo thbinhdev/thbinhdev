@@ -2,7 +2,7 @@
 ThBinhDev Blog is a technology blog that provides insightful articles and featured topics on software development, coding, programming languages, cybersecurity, AI, and more.
 
 
-## Follow Me
+# Follow Me
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/thbinhdev) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/thbinhdev) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/thbinhdev) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@thbinhdev) 
 
 # Tech Stack:
@@ -12,7 +12,7 @@ ThBinhDev Blog is a technology blog that provides insightful articles and featur
 ![](https://github-readme-streak-stats.herokuapp.com/?user=thbinhdev&theme=vue-dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=thbinhdev&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-### Dev Quote
+# Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=light)
 
 ---
