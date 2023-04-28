@@ -17,4 +17,4 @@ ThBinhDev Blog is a technology blog that provides insightful articles and featur
 
 ---
 [![](https://visitcount.itsvg.in/api?id=thbinhdev&color=7&icon=1&pretty=true)](https://www.thbinh.com)
-<p style="color:red"> Copyright ©️ 2023 | ThBinhDev </p>
+
